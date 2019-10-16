@@ -27,7 +27,7 @@ nav{
 }
 
 /*The Header-nav & Sub-menu id's didn't work - attempted to control the background colours of individual navs*/
-#Header-nav{
+#Header_nav{
     background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
@@ -60,7 +60,7 @@ nav{
 }
 
 
-footer{
+footer {
   background-color:#FF957E;
   border: 1px black solid;
   padding: 20px;
@@ -106,6 +106,10 @@ h1{
     background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
+}
+
+article img{
+  width : 100%;
 }
 
 #left {
